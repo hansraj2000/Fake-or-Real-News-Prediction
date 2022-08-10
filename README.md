@@ -2,6 +2,8 @@
 
 building a Fake News Prediction System using Machine Learning with Python. We will be using Logistic Regression model for prediction.
 
+Dataset :- https://www.kaggle.com/competitions/fake-news/data?select=train.csv
+
 train.csv: A full training dataset with the following attributes:
 
 id: unique id for a news article
